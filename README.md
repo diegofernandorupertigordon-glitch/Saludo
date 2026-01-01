@@ -91,8 +91,8 @@ Este composable recibe los datos por parámetros y se puede reutilizar en difere
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-```
+[git clone https://github.com/tu-usuario/nombre-del-repo.git
+](https://github.com/diegofernandorupertigordon-glitch/Saludo.git)```
 
 2. Ábrelo en **Android Studio**
 3. Sincroniza Gradle
